@@ -1,0 +1,5 @@
+Abbildung 4-1: Blöcke und ihre Einrückung. Die schwarzen Quadrate zeigen Leerzeichen an.
+
+Abbildung 4-2: Die Bedingung der while Schleife
+
+Abbildung 4-3: if und while Befehl
